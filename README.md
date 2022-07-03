@@ -1,7 +1,8 @@
 # Triple Traveler Club Mileage Service Back-End API Development Assignment
 ## 트리플 여행자 클럽 마일리지 서비스 Back-End API 개발 과제
  
-### Prerequisites(선행 조건)
+### Prerequisites and Dependencies(선행 조건 및 디펜던시)
+아래 사항들이 설치되있어야 합니다.
  - Spring Boot
  - Spring-boot-starter
  - Thymeleaf (ver 2.7.1)
